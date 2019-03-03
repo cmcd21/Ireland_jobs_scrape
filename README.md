@@ -1,6 +1,6 @@
 # ireland_jobs
 
-This project scrapes and cleans current Data Science job listings off IrishJobs.ie and NIjobs.com
+This project scrapes current Data Science job listings off [IrishJobs.ie](https://www.irishjobs.ie/) and [NIjobs.com](https://www.nijobs.com/). The data is stored as a data frame and is cleaned for further analysis.
 
 -	Data scraped, parsed and stored in a data frame
 -	Duplicate rows and NaN’s identified and dealt with
