@@ -10,8 +10,8 @@ This project scrapes current Data Science job listings off [IrishJobs.ie](https:
 This program does not only wokr for Data Scientist job listings. Any job can be assigned to *job_title* in cell 2
 
 ## Python libraries used
--requests
--bs4
--pandas
--numpy
--time
+- requests
+- bs4
+- pandas
+- numpy
+- time
